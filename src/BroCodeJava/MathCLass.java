@@ -51,13 +51,16 @@ public class MathCLass {
         double area;
         double volume;
 
-        System.out.println("Enter the radius: ");
+        System.out.print("Enter the radius: ");
         radius = scanner.nextDouble();
 
         circumference = 2 * Math.PI * radius;
+        area = Math.PI * Math.pow( radius , 2);
+        volume = (4.0 / 3.0) * Math.PI * Math.pow(radius, 3);
 
-        System.out.println();
-
+        System.out.printf("\nThe circumference is: %.1f cm ",circumference);
+        System.out.printf("\nThe area is: %.1f cm²" , area );
+        System.out.printf("\nThe volume is %.1f cm³:", volume );
 
         scanner.close();
 
