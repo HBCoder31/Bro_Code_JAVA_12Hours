@@ -14,7 +14,7 @@ public class Methods {
 
         System.out.println(square(3));
         System.out.println(cube(3));
-        String fullName = getFullName("SpongeBob", "Squarepats");
+        String fullName = getFullName("SpongeBob", "Squarepants");
         System.out.println(fullName);
         if(ageCheck(age)){
             System.out.println("You may sign up");
