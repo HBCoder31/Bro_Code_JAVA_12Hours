@@ -3,6 +3,10 @@ package BroCodeJava.ObjectOriented.Oops.Constructor;
 public class Studentjava {
     static void main(String[] args) {
 
+        // constructor = A special method to initialize objects
+        //                  You can pass arguments to a constructor
+        //                  and set up initial values
+
         Student student1 = new Student("Spongebob", 30 , 3.2);
         Student student2 = new Student("Harsh", 20, 3.4);
         Student student3 = new Student("Gandu", 21, 3.8);
