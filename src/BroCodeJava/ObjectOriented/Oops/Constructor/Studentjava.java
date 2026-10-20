@@ -6,6 +6,9 @@ public class Studentjava {
         // constructor = A special method to initialize objects
         //                  You can pass arguments to a constructor
         //                  and set up initial values
+        // constructor is automatically called when you create a new object
+        // But you need a matching set of arguments if a parameter is set up
+        // By constructors we can create objects with unique values
 
         Student student1 = new Student("Spongebob", 30 , 3.2);
         Student student2 = new Student("Harsh", 20, 3.4);
