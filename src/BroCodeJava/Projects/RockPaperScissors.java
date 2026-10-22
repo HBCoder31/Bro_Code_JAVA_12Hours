@@ -1,6 +1,5 @@
-package BroCodeJava;
+package BroCodeJava.Projects;
 
-import java.util.Locale;
 import java.util.Random;
 import java.util.Scanner;
 

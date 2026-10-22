@@ -1,4 +1,4 @@
-package BroCodeJava;
+package BroCodeJava.Projects;
 
 
 import java.util.Scanner;
