@@ -1,0 +1,23 @@
+package BroCodeJava.ObjectOriented.Oops.ToString;
+
+public class Car {
+
+    String make;
+    String model;
+    int year;
+    String color;
+
+    Car(String make, String model, int year, String color){
+        this.make = make;
+        this.model = model;
+        this.year = year;
+        this.color = color;
+    }
+
+    //Using method overriding
+
+    @Override
+    public String toString(){
+        return this.color + " " + this.year + " " + this.make + " " + this.model;
+    }
+}
