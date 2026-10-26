@@ -1,4 +1,4 @@
-[README.md](https://github.com/user-attachments/files/33951289/README.md)
+
 <div align="center">
 
 # ☕ Java Full Course — Hand-Typed
