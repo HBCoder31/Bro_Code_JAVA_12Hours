@@ -309,7 +309,6 @@ This repo is my personal, hand-typed practice of that course and is **not affili
 
 [![GitHub](https://img.shields.io/badge/GitHub-HBCoder31-181717?style=for-the-badge&logo=github)](https://github.com/HBCoder31)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-HB31052006-0A66C2?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/HB31052006)
-[![Instagram](https://img.shields.io/badge/Instagram-harsh__bohra31-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/harsh_bohra31)
 
 ⭐ **If this helped you learn Java, drop a star — it keeps me motivated!** ⭐
 
